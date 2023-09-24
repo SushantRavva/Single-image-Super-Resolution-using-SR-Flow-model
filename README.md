@@ -11,7 +11,7 @@ affine coupling layers was employed in. However, the
 scale factor was limited to ×2 SR task. Recently, SRFlow applied a similar approach for ×4 and ×8 SR tasks
 and successfully generated diverse SR results.
 
-# Wgat is SR-Flow and how does it work?
+# What is SR-Flow and how does it work?
 SRFlow: a normalizing flow based super-resolution method capable of learning the 
 conditional distribution of the output given the low-resolution input. 
 Our model is trained in a principled manner using a single loss, namely the negative log-likelihood.
